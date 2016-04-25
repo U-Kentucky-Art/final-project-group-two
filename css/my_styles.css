@@ -7,6 +7,12 @@ p{
   line-height: 80px;
   text-shadow: 2px 2px white;
 }
+p1{
+  color: black;
+  font-size: 25px;
+  text-align: center;
+  
+}
 h4{
   color:black;
   text-align: left;
