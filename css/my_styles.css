@@ -7,6 +7,18 @@ p{
   line-height: 80px;
   text-shadow: 2px 2px white;
 }
+.even_description{
+  color: black;
+  font-size: 20px;
+  text-align: left;
+  line-height: 30px;
+
+}
+.about_museum{
+  color: black;
+  font-size: 20px;
+  line-height: 30px;
+}
 h4{
   color:black;
   text-align: left;
@@ -15,6 +27,7 @@ h4{
   font-size: 40px;
   line-height: 80px;
   text-shadow: 2px 1px teal;
+
 }
 h3{
   color:black;
